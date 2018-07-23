@@ -1,5 +1,5 @@
 {
-  "country": "US",
+  "country": "INDIA",
   "edition": "Developer",
   "orgPreferences": {
     "enabled": [
@@ -7,6 +7,6 @@
     ],
     "disabled": []
   },
-  "orgName": "Your Company",
+  "orgName": "CSSCorp",
   "adminEmail": "yourname@example.com"
 }
